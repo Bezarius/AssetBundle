@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 778094208
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f5ec0d1ae902f42505a1edcd8211b0d7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: adc8d9627ac0d42b3cfad5d04786f2fe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d3fb3547e6926ae489eca740a3a229e2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b300c65cbdf347245a6c8551ced7a1e3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundleImportDemo/AssetsForImport/DLC2.prefab
+Dependencies: []

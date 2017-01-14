@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1989788353
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: dlc
+      Dependencies: {}
+    Info_1:
+      Name: dlc2
+      Dependencies: {}
