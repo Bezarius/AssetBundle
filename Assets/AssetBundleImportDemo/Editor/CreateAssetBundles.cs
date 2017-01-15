@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine;
 
-public class CreateAssetBundles : MonoBehaviour {
+public class CreateAssetBundles {
 
 	[MenuItem ("Assets/Build AssetBundles")]
     static void BuildAllAssetBundles ()
