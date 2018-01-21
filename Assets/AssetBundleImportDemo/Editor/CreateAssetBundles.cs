@@ -10,6 +10,6 @@ public class CreateAssetBundles {
 		if(!Directory.Exists("Assets/StreamingAssets")){
 			Directory.CreateDirectory("Assets/StreamingAssets");
 		}
-        BuildPipeline.BuildAssetBundles ("Assets/StreamingAssets", BuildAssetBundleOptions.None, BuildTarget.StandaloneOSXUniversal);
+        BuildPipeline.BuildAssetBundles ("Assets/StreamingAssets", BuildAssetBundleOptions.None, BuildTarget.StandaloneOSX);
     }
 }
